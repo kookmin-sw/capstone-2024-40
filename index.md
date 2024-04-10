@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# 프로젝트 소개
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<font size=5>숏폼 기반 의류 추천 서비스</font>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### [깃허브 바로가기](https://github.com/kookmin-sw/capstone-2024-40)
+#### [중간 보고서](https://drive.google.com/file/d/1OwN0JtMrE-i7x-5Nt9uTYj_nsBS-WjnA/view?usp=sharing)
+#### [중간 발표 자료](https://drive.google.com/file/d/1k1M5kiWxnmMa5dGpRdqlzNkfAOZvPoXu/view?usp=sharing)
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 소개 영상
 
-```markdown
-Syntax highlighted code block
+## 주요 기능
 
-# Header 1
-## Header 2
-### Header 3
+## 팀원 소개
+### Frontend
+<table>
+    <tr>
+        <th>이름</th>
+        <th>학번</th>
+        <th>기술 스택</th>
+    </tr>
+    <tbody>
+        <td valign = "middle">김도윤</td>
+        <td>****1684</td>
+        <td><img src="https://camo.githubusercontent.com/6a58c2a5ed615f99f6bc0bdbfa9cfb50674e022fbc1fcb2233e041949908c14e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52454143542d3631444146422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/eb3c36e66f20893f28d23b77c6677de4367b9f4aebac757021390565fb7c2eda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d3331373863363f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/e2b0e4cf4a2e271a83ed80edae94d86cdd5389731809397934da81787ebc81bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e646373732d3036423644343f7374796c653d666f722d7468652d6261646765266c6f676f3d5461696c77696e64637373266c6f676f436f6c6f723d7768697465"></td>
+    </tbody>
+</table>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 사용법
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 기타
+추가적인 내용은 자유롭게 작성하세요.
