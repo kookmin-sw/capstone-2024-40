@@ -9,3 +9,4 @@ A service that extracts clothing images from short-form videos such as YouTube S
 – 김도윤(****1586)
 ## 5. 사용법 ( 소프트웨어 설치, 실행방법, 사용 방법 등 추가링크로 포함 )
 ## 6. 기타 ( 1~5 외 전하고 싶은 내용, 사사 등 )
+rewq
